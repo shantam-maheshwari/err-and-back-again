@@ -25,7 +25,7 @@ Ok, let's dive in!
 
 {% include alert.html text="Spoilers Ahead" %}
 
-## The ISO YEAR
+## ISO 8601
 
 ### The What
 
@@ -35,11 +35,11 @@ Ok, let's dive in!
 
 ### The How
 
-Let's break it down to two simple steps.
-
-0. Forget about 1 January for a moment.
-1. Find the first Thursday of the year.
-2. Find the Monday of the week (Monday to Sunday) containing it.
+<ol start="0">
+  <li>Forget about 1 January for a moment.</li>
+  <li>Find the first Thursday of the year.</li>
+  <li>Find the Monday of the week (Monday to Sunday) containing it.</li>
+</ol>
 
 Here's an example. Let's find week 01 day 01 of the year 2022. Fire up the calendar on your system and follow along.
 
@@ -113,5 +113,5 @@ print(366/7, 366%7)
 
 ## Further Reading
 
-- https://en.wikipedia.org/wiki/ISO_week_date
-- https://en.wikipedia.org/wiki/ISO_8601
+- [](https://en.wikipedia.org/wiki/ISO_week_date)
+- [](https://en.wikipedia.org/wiki/ISO_8601)
