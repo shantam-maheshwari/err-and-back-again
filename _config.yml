@@ -39,7 +39,7 @@ baseurl: "/err-and-back-again" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
+    twitter: knuthian_hero
     github: shantam-maheshwari
 
 # Set this to true to get LaTeX math equation support
