@@ -9,11 +9,11 @@ categories: [iso8601, oracle]
 ---
 # ISO Week Date
 
-Handling date formats is probably the second-worst pain one can inflict upon a developer - the worst being handling time zones, of course (soon brother, soon). But **what say you is the week 01 day 01 of the year?** Participate in the poll below:
+Handling date formats is probably the second-worst pain one can inflict upon a developer - the worst being handling time zones, of course (soon brother, soon). But **what say you is the week 01 day 01 of the year?** Participate in either of the polls below:
 
 [LinkedIn Poll](https://www.linkedin.com/posts/shantam-maheshwari_iso8601-oracle-activity-6905759642908020736--O8V)
 
-<!-- TODO: Twitter -->
+{% twitter https://twitter.com/knuthian_hero/status/1500030250058944513 %}
 
 ![](https://imgs.xkcd.com/comics/formatting_meeting.png "Relevant XKCD")
 
