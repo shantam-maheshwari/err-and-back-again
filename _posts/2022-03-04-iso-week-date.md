@@ -11,7 +11,7 @@ categories: [iso8601, oracle]
 
 Handling date formats is probably the second-worst pain one can inflict upon a developer - the worst being handling time zones, of course (soon brother, soon). But **what say you is the week 01 day 01 of the year?** Participate in the poll below:
 
-LinkedIn:  
+[LinkedIn Poll](https://www.linkedin.com/posts/shantam-maheshwari_iso8601-oracle-activity-6905759642908020736--O8V)
 
 <!-- TODO: Twitter -->
 
