@@ -4,12 +4,12 @@ description: "Ah sh*t, here we go again."
 layout: post
 toc: true
 comments: true
-image: https://imgs.xkcd.com/comics/formatting_meeting.png "Relevant XKCD"
+image: https://imgs.xkcd.com/comics/formatting_meeting.png
 categories: [iso8601, oracle]
 ---
 # ISO Week Date
 
-Handling date formats is probably the second-worst pain one can inflict upon a developer - the worst being handling time zones, of course (soon brother, soon). But what say you is the week 01 day 01 of the year? Participate in the poll below:
+Handling date formats is probably the second-worst pain one can inflict upon a developer - the worst being handling time zones, of course (soon brother, soon). But **what say you is the week 01 day 01 of the year?** Participate in the poll below:
 
 LinkedIn:  
 
@@ -23,8 +23,6 @@ Before we get to the answer, according to ISO 8601 (the gold standard) the corre
 
 Ok, let's dive in!
 
-{% include alert.html text="Spoilers Ahead" %}
-
 ## ISO 8601
 
 ### The What
@@ -34,6 +32,8 @@ Ok, let's dive in!
 ![](https://c.tenor.com/xdOS4KcgiuwAAAAC/pale-tv.gif "I SO PALE")
 
 ### The How
+
+Let's break it down to two simple steps.
 
 <ol start="0">
   <li>Forget about 1 January for a moment.</li>
@@ -113,5 +113,5 @@ print(366/7, 366%7)
 
 ## Further Reading
 
-- [](https://en.wikipedia.org/wiki/ISO_week_date)
-- [](https://en.wikipedia.org/wiki/ISO_8601)
+1. <https://en.wikipedia.org/wiki/ISO_week_date>
+2. <https://en.wikipedia.org/wiki/ISO_8601>
